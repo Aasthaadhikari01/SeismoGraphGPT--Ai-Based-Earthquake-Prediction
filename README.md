@@ -1,0 +1,1 @@
+# SeismoGraphGPT--Ai-Based-Earthquake-Prediction
